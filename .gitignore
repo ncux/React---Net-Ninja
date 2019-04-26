@@ -1,0 +1,5 @@
+/.idea
+
+/router-redux/node_modules
+/todo-app/node_modules
+/tutorial-app/node_modules
